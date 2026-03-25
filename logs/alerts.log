@@ -1,0 +1,31 @@
+[2026-03-25 11:32:11] EVENT | CONTROLLER   | Logger initialized — binary log + alerts log opened
+[2026-03-25 11:32:12] EVENT | CONTROLLER   | All child processes spawned — simulation running
+[2026-03-25 11:32:15] ALERT | Board PCB-00004  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:17] EVENT | CONTROLLER   | ALARM tick | completed=5 | defects=1 | rate=20.00%
+[2026-03-25 11:32:18] ALERT | Board PCB-00007  | Stn3 | Verdict=FAIL-MLT | Solder-fails=1 | Misplaced=3 | Opens=1 Shorts=1
+[2026-03-25 11:32:19] ALERT | Board PCB-00009  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:22] EVENT | CONTROLLER   | ALARM tick | completed=11 | defects=5 | rate=45.45%
+[2026-03-25 11:32:23] ALERT | Board PCB-00013  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:23] EVENT | CONTROLLER   | SIGUSR1 received — writing snapshot
+[2026-03-25 11:32:23] ALERT | Board PCB-00014  | Stn3 | Verdict=FAIL-MLT | Solder-fails=1 | Misplaced=1 | Opens=1 Shorts=1
+[2026-03-25 11:32:27] EVENT | CONTROLLER   | ALARM tick | completed=17 | defects=9 | rate=52.94%
+[2026-03-25 11:32:28] ALERT | Board PCB-00020  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:29] ALERT | Board PCB-00021  | Stn3 | Verdict=FAIL-MLT | Solder-fails=1 | Misplaced=1 | Opens=1 Shorts=1
+[2026-03-25 11:32:31] ALERT | Board PCB-00023  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:32] EVENT | CONTROLLER   | ALARM tick | completed=24 | defects=14 | rate=58.33%
+[2026-03-25 11:32:32] ALERT | Board PCB-00025  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:35] ALERT | Board PCB-00028  | Stn3 | Verdict=FAIL-MLT | Solder-fails=1 | Misplaced=2 | Opens=1 Shorts=1
+[2026-03-25 11:32:35] ALERT | Board PCB-00029  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=2 | Opens=0 Shorts=0
+[2026-03-25 11:32:36] ALERT | Board PCB-00030  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:37] EVENT | CONTROLLER   | ALARM tick | completed=30 | defects=20 | rate=66.67%
+[2026-03-25 11:32:38] ALERT | Board PCB-00032  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=2 | Opens=0 Shorts=0
+[2026-03-25 11:32:39] ALERT | Board PCB-00033  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:40] ALERT | Board PCB-00035  | Stn3 | Verdict=FAIL-MLT | Solder-fails=1 | Misplaced=1 | Opens=1 Shorts=1
+[2026-03-25 11:32:42] EVENT | CONTROLLER   | ALARM tick | completed=36 | defects=25 | rate=69.44%
+[2026-03-25 11:32:43] ALERT | Board PCB-00039  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=2 | Opens=0 Shorts=0
+[2026-03-25 11:32:46] ALERT | Board PCB-00042  | Stn3 | Verdict=FAIL-MLT | Solder-fails=1 | Misplaced=1 | Opens=1 Shorts=1
+[2026-03-25 11:32:47] EVENT | CONTROLLER   | ALARM tick | completed=42 | defects=29 | rate=69.05%
+[2026-03-25 11:32:47] ALERT | Board PCB-00044  | Stn3 | Verdict=FAIL-PLC | Solder-fails=0 | Misplaced=1 | Opens=0 Shorts=0
+[2026-03-25 11:32:51] ALERT | Board PCB-00049  | Stn3 | Verdict=FAIL-MLT | Solder-fails=1 | Misplaced=2 | Opens=1 Shorts=1
+[2026-03-25 11:32:52] EVENT | CONTROLLER   | ALARM tick | completed=49 | defects=33 | rate=67.35%
+[2026-03-25 11:32:55] EVENT | CONTROLLER   | Simulation complete — controller exiting
