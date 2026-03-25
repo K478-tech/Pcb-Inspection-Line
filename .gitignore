@@ -1,0 +1,5 @@
+bin/
+logs/
+*.o
+*.a
+/tmp/pcb_fifo_*
