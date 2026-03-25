@@ -1,5 +1,4 @@
 # PCB Quality Inspection Line
-### Linux System Calls & IPC — Mini Project (KPIT Apex Lab)
 
 ---
 
@@ -209,5 +208,3 @@ Ctrl+C   # or: kill -INT <PID_of_main>
 - **Thread safety** — every station's internal queue is protected by a dedicated `pthread_mutex_t` and `pthread_cond_t` pair
 
 ---
-
-*KPIT Apex Lab — Mini Project 1 | Linux System Calls & IPC*
